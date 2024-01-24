@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - design
   - technique
+  - user-experience
 title: Card Sorting And A Glimpse At Experimental Sorting Session
 date: 2018-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2018-08-26
 ---
@@ -20,17 +21,17 @@ created: 2018-08-26
 
 And plus, a real lesson learned with our team’s workshop.
 
-# A brief intro to Card Sorting
+## A brief intro to Card Sorting
 
-## Definition
+### Definition
 
 Card sorting is a method used to help design or evaluate the information architecture of a site and broader a digital product (web-app and mobile app).
 
-## Information Architecture (IA)
+### Information Architecture (IA)
 
 As [Nielsen Norman Group](https://www.nngroup.com/articles/ia-vs-navigation/) defines, IA is the skeleton of a digital product, including the labelling of content and how they are organized in order for the user to find the content as easy as possible. A good IA, mostly presented as navigation, needs to be clear and intuitive enough to guide the users to the right flow.
 
-## Why
+### Why
 
 Curate more refined product for users by understanding more into their mental model by
 
@@ -89,7 +90,7 @@ One of our ongoing projects involving with a large scale of information and cate
 
 3️⃣ Help the moderator to practice her skills as a workshop facilitator and better prepare for issues that may emerge in real workshop
 
-### About the project
+## About the project
 
 The necessary information hotel employees needs for their everyday work.
 
@@ -137,7 +138,7 @@ For instance, a card with the wording “status” led to a discussion.
 
 In this case, recalling our users were the hotel’s staff, the room status was the more suitable choice to choose.
 
-### #🗒️ Lessons #3
+### 🗒️ Lessons #3
 
 * No idea is wrong. Propose first, verify later.
 * Give more details to the cards: stay away from confusing wording, make short explanation to the labels. This would help shorten the time for the explanation.
@@ -145,7 +146,7 @@ In this case, recalling our users were the hotel’s staff, the room status was 
 * Discovered some new wordings for categories
 * Made a better preparation for the real workshop
 
-## #Beyond this session
+## Beyond this session
 
 1. Document the findings into digital version for optimal results overview (diagrams for more holistic view)
 1. Test the result with simple interactive prototype
