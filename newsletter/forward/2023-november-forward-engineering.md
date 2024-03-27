@@ -1,13 +1,9 @@
 ---
 tags:
-  - dwarves
   - forward-engineering
   - labs
-  - duckdb
   - AI
-  - rust
-  - ui-practices
-  - passwordless
+  - performance
 title: November Forward Engineering 2023
 date: 2023-11-30
 description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
@@ -20,7 +16,7 @@ hide_frontmatter: false
 pinned: true
 featured: true
 ---
-**This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
+**This month**, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 
@@ -87,7 +83,7 @@ We’ve also recently demoed the benefits of parallel processing in one of our D
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 
 ### Upcoming Research
-#### **WebAssembly (WASM)**
+#### WebAssembly (WASM)
 _PICs: An Tran_
 
 WASM is a technology that allows running code written in multiple languages on the web at near-native speed. The challenges in using WASM for these applications may include optimizing performance, managing memory efficiently, and ensuring compatibility across different web browsers:
@@ -96,7 +92,7 @@ WASM is a technology that allows running code written in multiple languages on t
 - [[data-processing-and-visual-infographics-through-duckdb-wasm|Data processing and visual infographics (through DuckDB-WASM)]]
 - [[implement-a-rust-game-through-wasm|Implement a Rust game through WASM]]
 
-#### **Passwordless Authentication**
+#### Passwordless Authentication
 _PICs: An Tran_
 
 An Tran has also discussed passwordless authentication, which involves allowing users to access systems without entering traditional passwords. The use-case challenges we hope to include are:

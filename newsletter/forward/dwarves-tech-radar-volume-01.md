@@ -1,28 +1,29 @@
 ---
 tags: 
   - radar
+  - forward-engineering
+  - technology
 title: Dwarves Tech Radar Volume 01
 date: 2020-08-26
-description: null
-authors: null
+description: For this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
+authors: 
+- duy
 menu: memo
 type: null
 hide_frontmatter: false
----
-
 ---
 
 The Dwarves have their tradition to explore the tech scene and learn new things. Dwarves Tech Radar kicked the initial step since January of 2020. 
 
 It is the first time we sit down and do it in written form. It's a bit hard for the engineers at first, but we managed to complete the volume with ten reports.
 
-Besides volume 01, we have an opportunity to sort out our current technology index and put it at<span style='color:pink_background'> </span><span style='color:pink_background'>[https://d.foundation/radar](https://d.foundation/radar)</span><span style='color:pink_background'>.</span> And for this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
+Besides volume 01, we have an opportunity to sort out our current technology index and put it at https://d.foundation/radar](https://d.foundation/radar). And for this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
 
 ![](assets/dwarves-tech-radar-volume-01_d6ad0adba1f212243cbd321a44cc2e53_md5.webp)
 
 Let us walk you through the first Volume.
 
-## **Language & Framework**
+## Language & Framework
 ### WebAssembly
 Previously, it takes HTML, CSS, and Javascript to perform an interactive web-app for users. But with the continually higher demand, web-app must serve at a better velocity. Web Assembly was created to tackle the performance-critical problem that Javascript is struggling, leveraging the calculating ability in client-server, especially in multimedia processing tasks. The topic is a quick playing-around that will help engineers shorten their time to get to know the WebAssembly concepts.
 
@@ -47,7 +48,7 @@ Running an application needs more than one processor. It takes support from othe
 
 Applying XPC-service in mobile development touches some advantages: reduce memory footprint or separated permission for each service. But on the other hand, it triggers the coding boilerplate and the latency between some specific services.
 
-## **Practices & Approach**
+## Practices & Approach
 ### Software Reusability
 Systems are repeatedly created in a specific field, with set variables to fulfill the requirements. Instead of rebuilding these systems every time a product is made, reusability in software is how developers shorten the effort by re-picking the elements from the previous system. This topic is a brief explanation of why we opt for frameworks in the development process or why web service standards are being used widely. It's also the answer for some software matters such as lower software production and maintenance costs, faster delivery of systems, and increased software quality to get the final goal is the increment of return on software investments.
 
@@ -88,14 +89,14 @@ Thanks to the usability test, we were able to address the user's trouble. It let
 
 As we have no idea when the Covid-19 pandemic is over and work from home is strongly recommended, it's the right time to adopt remote methods in UX design, including Remote Moderated Usability Testing. Although there are some drawbacks, it's still a good solution for our team, client, and test participants.
 
-# Reaching Toward
+## Reaching Toward
 These above are just the beginning of a long run. We're thinking of bringing everything alive once all the topics are wrapped up. In the meantime, we'd love to receive all of the comments, contributions, and advice to make this Radar more completed. The best can always become better.
 
 Though this began as a side project, The Dwarves Tech Radar speaks up the code that sticks us together for over the years.
 
-* <span style='color:pink_background'>**Innovation**</span> - the urge to discover new ways of solving the current problems and create impacts
-* <span style='color:pink_background'>**Craftsmanship**</span> - the mindset of dedicating your time and effort in every piece of work
-* <span style='color:pink_background'>**Teamwork**</span> - the spirit of connecting and collaborate effectively amongst the crew without breaking the present value.
+**Innovation** - the urge to discover new ways of solving the current problems and create impacts
+**Craftsmanship** - the mindset of dedicating your time and effort in every piece of work
+**Teamwork** - the spirit of connecting and collaborate effectively amongst the crew without breaking the present value.
 
 Innovation happens almost every day, and it's our job to pursue the latest version. It's what sets the business successful and giving them a competitive advantage. That begins with nothing but keeps the employee updated on the latest development.
 
